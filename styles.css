@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
